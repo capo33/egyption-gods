@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/egyption-gods/static/js/main.c2fee662.chunk.js",
+    "main.js.map": "/egyption-gods/static/js/main.c2fee662.chunk.js.map",
+    "runtime-main.js": "/egyption-gods/static/js/runtime-main.9852034a.js",
+    "runtime-main.js.map": "/egyption-gods/static/js/runtime-main.9852034a.js.map",
+    "static/js/2.6a517163.chunk.js": "/egyption-gods/static/js/2.6a517163.chunk.js",
+    "static/js/2.6a517163.chunk.js.map": "/egyption-gods/static/js/2.6a517163.chunk.js.map",
+    "index.html": "/egyption-gods/index.html",
+    "static/js/2.6a517163.chunk.js.LICENSE.txt": "/egyption-gods/static/js/2.6a517163.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9852034a.js",
+    "static/js/2.6a517163.chunk.js",
+    "static/js/main.c2fee662.chunk.js"
+  ]
+}

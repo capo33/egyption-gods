@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.icon {
+  width: 80px;
+  height: 80px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Zen Dots", cursive;
+  text-align: center;
+  background-color: #08d490;
+  padding: 16px 32px;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+.gods {
+  height: 400px;
+  display: flex;
+  margin: auto;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 7%;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.parent > div {
+  margin: 2%;
+}
+
+.center {
+  font-family: "Zen Dots", cursive;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #08d490;
+  padding: 16px 32px;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+a {
+  text-decoration: none;
+  background-color: sandybrown;
+  font-family: "Zen Dots", cursive;
+  padding: 16px;
+  color: aliceblue;
+  outline: none;
+  box-shadow: 2px 2px 2px grey;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+  width: 150px;
+}
+
+p {
+  width: 300px;
+  font-size: 1.2rem;
+  font-family: "Zen Dots", cursive;
+  font-weight: bold;
+  text-align: center;
+  margin: 30px auto;
+}
